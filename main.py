@@ -1,7 +1,7 @@
 """
 Programme fait par Raul Mic
 Groupe: 403
-Description: TP1 : Compter le nombre des mots
+Description: TP1 Compter le nombre des mots
 """
 
 phrase = "Je suis une variable de type string qui sert a compter le nombre de mots pour TP1"
